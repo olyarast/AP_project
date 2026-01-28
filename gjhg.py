@@ -253,3 +253,7 @@ class AnnotationCollection: # holds all annotations and provides query functions
 
     def __repr__(self):
         return f"<AnnotationCollection: {len(self.annotations)} annotations>"
+
+
+
+# idk if we can edit this thing 
